@@ -110,9 +110,7 @@ Geliştirme Önerileri
 * Web arayüzünü geliştirme ve daha görselleştirilmiş içerik sunma
 
 ## Contributors
-- Zeynep KOÇ 
-- <a href="https://github.com/GamzeSuel">
-  <img src="https://github.com/GamzeSuel.png" width="50px" style="border-radius:50%;" />
-  <br />
-  Gamze Süel
-</a>
+### 👥 Proje Katılımcıları
+
+| [<img src="https://github.com/Zeynep35.png" width="100px;"/><br /><sub><b>Zeynep KOÇ</b></sub>](https://github.com/Zeynep35) | [<img src="https://github.com/GamzeSuel.png" width="100px;"/><br /><sub><b>Gamze Süel</b></sub>](https://github.com/GamzeSuel) |
+| :---: | :---: |
