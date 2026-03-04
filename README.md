@@ -112,3 +112,8 @@ Geliştirme Önerileri
 ## Contributors
 - Zeynep KOÇ 
 - [@GamzeSuel](https://github.com/GamzeSuel)
+- <a href="https://github.com/GamzeSuel">
+  <img src="https://github.com/GamzeSuel.png" width="50px" style="border-radius:50%;" />
+  <br />
+  Gamze Süel
+</a>
