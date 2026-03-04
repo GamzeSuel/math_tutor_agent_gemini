@@ -15,8 +15,12 @@ Proje iki kişi tarafından geliştirilmiştir ve hem eğitim hem de deneysel am
 * JSON tabanlı şemalar: Pydantic ile yapılandırılmış ve doğrulanmış çıktılar
 
 * Streamlit arayüzü: Kullanıcı dostu web tabanlı deneyim
+  [WhatsApp Image 2026-02-26 at 23 06 58](https://github.com/user-attachments/assets/1377861e-c6b9-4820-bb3d-35a768507321)
+  ![WhatsApp Image 2026-02-26 at 23 07 22](https://github.com/user-attachments/assets/aaf36c60-0f1a-484a-a945-a2421fd86a55)
+  ![WhatsApp Image 2026-02-26 at 23 07 47](https://github.com/user-attachments/assets/594687be-1e0a-41d5-ba74-f038e891a9ac)
+  ![WhatsApp Image 2026-02-26 at 23 08 06](https://github.com/user-attachments/assets/bd48697f-a00e-4172-aa97-459565ab8e59)
 
-Kurulum
+Kurulum!
 
 Python 3.10+ gereklidir.
 
